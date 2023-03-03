@@ -26,11 +26,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-
-  &lt;properties> 
-  &lt;project.build.sourceEncoding>UTF-8
-  &lt;/project.build.sourceEncoding> &lt;maven.compiler.source>1.6&lt;/maven.compiler.source> &lt;maven.compiler.target>1.6&lt;/maven.compiler.target> 
-  &lt;/properties>
   
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
