@@ -12,11 +12,10 @@
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.7</maven.compiler.source>
-    <maven.compiler.target>1.7</maven.compiler.target>
-  </properties>
+  &1t;properties> 
+  &lt;project.build.sourceEncoding>UTF-8
+  &lt;/project.build.sourceEncoding> &lt;maven.compiler.source>1.6&lt;/maven.compiler.source> &lt;maven.compiler.target>1.6&lt;/maven.compiler.target> 
+  &lt;/properties>
 
   <dependencies>
     <dependency>
